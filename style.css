@@ -1,0 +1,23 @@
+body {
+    padding: 30px;
+    color: #444;
+    font-family: 'Arimo', sans-serif;
+    border: solid 1px #888;
+    width: 30%;
+    line-height: 2em;
+
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #888;
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+}
+
+button {
+    margin-left: 20px;
+}
